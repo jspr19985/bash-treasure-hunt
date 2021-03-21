@@ -1,1 +1,1 @@
-cat knots-corrupted.txt | tr '@'  'a' | tr '&' 'e' | tr '*' 'i' | tr '^' 'o' |tr '£' 'u' | grep mast
+cat knots-overflow.txt | tr '@'  'a' | tr '&' 'e' | tr '*' 'i' | tr '^' 'o' |tr '£' 'u' | grep mast
