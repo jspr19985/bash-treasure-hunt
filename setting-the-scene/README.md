@@ -40,6 +40,9 @@ Once you have worked out which country the treasure is buried, write it to your 
 
 You should be able to work out the country using the starting letter, and finding the n-th column which has the same area, but if you want to make it easier to read you can write the countries with the correct starting letter to a file (using redirect) and then the `cut` command to output just the columns you want.
 
+### Solution (should you get a bit stuck)
+[Solution](https://github.com/jspr19985/bash-treasure-hunt/blob/main/setting-the-scene/solution.txt)
+
 ## References
 
 https://www.kaggle.com/fernandol/countries-of-the-world
