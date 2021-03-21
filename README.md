@@ -14,6 +14,10 @@ Info... (put a code excerpt here)
 
 Put a link to the first level here
 
+### Who is this for?
+
+This game is suitable for beginners and people who know a few commands: `cd`, `ls`, `mkdir` etc but would like to expand their knowledge.
+
 
 ## Plot
 
