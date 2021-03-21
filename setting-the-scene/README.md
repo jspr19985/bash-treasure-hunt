@@ -34,7 +34,7 @@ You jump straight to the 'M' section (`grep`, `^`=start of file) and find the co
 - `^A` as the regex pattern will bring back all the rows which start with 'A'
 
 
-Once you have worked out which country the treasure is buried, write it to your notebook (`echo`, `>>`) and move to the next level (TODO link).
+Once you have worked out which country the treasure is buried, write it to your notebook (`echo`, `>>`) and move to the next level [The Docks](https://github.com/jspr19985/bash-treasure-hunt/blob/main/the-docks/README.md).
 
 ### Extra
 
