@@ -14,9 +14,9 @@ As you have no money and nothing else to do, going on a treasure hunt to find th
 
 <img src="images/atlas.jpeg" width="500"><br/><br/>
 
-You wake bright and early and decide to move forward starting at the beginning (`root`). While the drunken sailor is sleeping off his hangover, you grab your notebook and sneak out to the British library to do some investigative work. 
+You wake bright and early and decide to move forward starting at the beginning (`root`). While the drunken sailor is sleeping off his hangover, you grab your notebook and sneak out to the British library (`cd`) to do some investigative work. 
 
-On arrival you head to the geography section (`cd`) and look inside the atlas (`ls`). It has a file listing the countries of the world and you quickly note the size with the long listing format (`ls -l`). Being the lazy programmer that you are, you think "I'm not reading all of that", and take a quick glance at the first five records (including the header).
+On arrival you head to the geography section (`cd`). It has a file listing the countries of the world and you quickly note the size with the long listing format (`ls -l`). Being the lazy programmer that you are, you think "I'm not reading all of that", and take a quick glance at the first five records (including the header).
 
 ```cat countries-of-the-world.csv | head -n 5```
 
