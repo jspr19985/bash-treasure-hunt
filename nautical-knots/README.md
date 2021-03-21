@@ -30,4 +30,4 @@ Once you have worked out which knot to use, write it to your notebook (`echo`, `
 
 ## References
 
-https://linuxhint.com/bash_tr_command/#:~:text=tr%20command%20can%20be%20used%20with%20%2Dc%20option%20to%20replace,replace%20them%20by%20'a'.
+https://www.geeksforgeeks.org/tr-command-in-unix-linux-with-examples/
