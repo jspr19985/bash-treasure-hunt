@@ -4,9 +4,9 @@
 
 <img src="images/old-pub-drinks.jpeg" width="500"><br/><br/>
 
-It’s 1757 in Olde England and you are a penniless, destitute computer programmer who has just been evicted for not paying rent. While sitting in The Drunkards Arms, drowning your'e sorrows with your last shilling, a drunken sailor walks in and orders a rum and pineapple :pineapple:. As you are alone, he sits down in the chair opposite and and starts recounting tales of his latest adventures at sea: pirates, sharks and most interestingly, hidden treasure :dollar:.  
+It’s 1757 in Olde England and you are a penniless, destitute computer programmer who has just been evicted for not paying rent. While sitting in The Drunkards Arms, drowning your'e sorrows with your last shilling, a drunken sailor walks in and orders a rum and pineapple. As you are alone, he sits down in the chair opposite and and starts recounting tales of his latest adventures at sea: pirates, sharks and most interestingly, hidden treasure.  
 
-The drunken sailor had a glance at a treasure map over the captains shoulder, but all he can remember was that the island country begins with an 'M', and has around 2000 square miles of land 🏝️.
+The drunken sailor had a glance at a treasure map over the captains shoulder, but all he can remember was that the island country begins with an 'M', and has around 2000 square miles of land.
 
 As you have no money and nothing else to do, going on a treasure hunt to find the missing treasure sounds like your best option, and the drunken sailor is happy to tag along. As you have nowhere to stay and the drunken sailor has become you new BFF, he offers you the floor of his room to sleep for the night.
 
