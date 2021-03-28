@@ -20,8 +20,16 @@ echo "outputing from file"
 # save and close
 :wq
 
+# run the file
+bash bell-time.sh
+
+----------------------------------------------------------
+NB:
+
 # if you want to quit without saving changes
 :q!
+
+----------------------------------------------------------
 
 See tutorial on vim (ignore that the type of file being created is a java file):
 https://opensource.com/article/19/3/getting-started-vim
