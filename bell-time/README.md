@@ -29,11 +29,16 @@ You keep a note of bell rining throughout the day, whenever you get a chance. Al
 03:00 2 bells, pause, 2 bells, pause, 2 bells <br/>
 03:30 2 bells, pause, 2 bells, pause, 2 bells, pause, 1 bell <br/>
 
-You ask one of the other sailors how Dog Watch works and he replies: "At the end of First Dog Watch, only four bells are struck (as it's only 2 hours long you don't need any more), Second Dog Watch follows the same pattern as the rest until the last ring which is 8". 
+You ask one of the other sailors how Dog Watch works and he replies: **"At the end of First Dog Watch, only four bells are struck (as it's only 2 hours long you don't need any more), Second Dog Watch follows the same pattern as the rest until the last ring which is 8"**. 
 
-That should be enought to get going and you quickly get to work building a script to work out what time it is.
+That should be enough to get going and you quickly get to work building a script to work out what time it is.
 
 Create a script `bell-time.sh` which takes 2 parameters: the name of the watch e.g. "middle" and the number of bells that have been rung e.g. 4 and output what the time is in 24hr clock.
+
+```bash bell-time.sh middle 4```
+
+Output: <br/>
+```The time in 24hr clock is 0200 hours.```
 
 
 ## References
