@@ -1,6 +1,8 @@
 
 # Dog Watch
 
+<img src="images/bell-time.jpeg" width="200"><br/><br/>
+
 The Captain decides it's your turn to keep at watch at night and puts you on *First Dog Watch* starging tomorrow. "Don't worry" he says, "You'll know when it's your turn by the ringing of that bell" and heads off to his cabin for a nap. "But the bell rings all the time" you cry. "How do I know when I'm up next?". 
 
 The current schedule looks something like this:
