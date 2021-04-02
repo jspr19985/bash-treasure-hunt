@@ -1,0 +1,38 @@
+# Below are commands to create a running program:
+
+# cd to somewhere you want to create the file (or mkdir a new directory)
+
+# create the empty shell script
+touch my-script.sh
+
+# make it executable
+chmod +x my-script.sh
+
+# edit the file with vim (will open and empty file)
+vim my-script.sh
+
+# enter 'insert' mode
+i
+
+# add a shebang to tell the shell which interpreter to run
+#!/bin/bash
+
+# write a basic output statement
+echo "outputing from file"
+
+# save and close
+:wq
+
+# run the file
+bash my-script.sh
+
+----------------------------------------------------------
+NB:
+
+# if you want to quit without saving changes
+:q!
+
+----------------------------------------------------------
+
+See tutorial on vim (ignore that the type of file being created is a java file):
+https://opensource.com/article/19/3/getting-started-vim
