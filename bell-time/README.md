@@ -40,6 +40,7 @@ Create a script `bell-time.sh` which takes 2 parameters: the name of the watch e
 Output: <br/>
 ```The time in 24hr clock is 0200 hours.```
 
+**TODO - instructions for script/bash commands**
 
 ## References
 
