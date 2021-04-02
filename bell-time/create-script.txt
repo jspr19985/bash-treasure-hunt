@@ -1,4 +1,4 @@
-# Below are commands to create a running program (using the "Bell Time" example):
+# Below are commands to create a running program:
 
 # cd to somewhere you want to create the file (or mkdir a new directory)
 
@@ -6,10 +6,10 @@
 touch my-script.sh
 
 # make it executable
-chmod +x bell-time.sh
+chmod +x my-script.sh
 
 # edit the file with vim (will open and empty file)
-vim bell-time.sh
+vim my-script.sh
 
 # enter 'insert' mode
 i
