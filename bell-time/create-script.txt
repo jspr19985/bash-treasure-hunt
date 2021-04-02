@@ -3,7 +3,7 @@
 # cd to somewhere you want to create the file (or mkdir a new directory)
 
 # create the empty shell script
-touch bell-time.sh
+touch my-script.sh
 
 # make it executable
 chmod +x bell-time.sh
@@ -14,6 +14,9 @@ vim bell-time.sh
 # enter 'insert' mode
 i
 
+# add a shebang to tell the shell which interpreter to run
+#!/bin/bash
+
 # write a basic output statement
 echo "outputing from file"
 
@@ -21,7 +24,7 @@ echo "outputing from file"
 :wq
 
 # run the file
-bash bell-time.sh
+bash my-script.sh
 
 ----------------------------------------------------------
 NB:
