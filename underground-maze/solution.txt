@@ -1,0 +1,1 @@
+sed 's/OFDEQ/right/ ; s/IBCQ/left/' ancient-scroll.txt > ancient-scroll-decrypted.txt
