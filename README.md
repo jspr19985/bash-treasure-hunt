@@ -31,7 +31,11 @@ Info...
 
 ## Characters
 
-Info...
+- Penniless Programmer (You)
+- Drunken Sailor (Who informs you of the treasure you seek)
+- Ships Captain (On whose ship you are a stowaway)
+- Geeky Pete (Friend you meet along the way)
+- Pseudo Sue (Friend you meet along the way)
 
 <p float="left">
   <img src="images/computer-programmer.jpeg" height="70" />
