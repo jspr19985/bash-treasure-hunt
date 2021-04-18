@@ -21,3 +21,6 @@ You `cat ancient-scroll.txt` and realise that if you replace a few of the letter
 TODO
 use the short cut:   
 ```ls -R maze | xargs cat >> my-new-file.txt```
+
+TODO
+ you meet Psudo Sue in here...
