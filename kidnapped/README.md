@@ -15,4 +15,8 @@ You wake to find yourself in a candlelit room full of bones. Another programmer 
 
 You `cat ancient-scroll.txt` and realise that if you replace a few of the letters, the words *OFDEQ* and *IBCQ* mean **right** and **left** respectively. Fortunately, you are quite adept with the `sed` command and use it to replace the words, writing the output to a new file.
 
+- `sed` performs basic text manipulation (such as substitution) on files and input streams.
+- basic format to replace text: `sed 's/foo/bar/' file.txt > new-file.txxt` replaces `foo` with `bar`
+- multiple substitutions are semi-colon delimited e.g. `'s/foo/bar/ ; s/another/replacement/'`
+
 "What's that door in the floor?" you ask. "I never noticed that before." You realise there's hatch that opens out onto a staircase and hurry through to the next level.
