@@ -17,3 +17,7 @@ You `cat ancient-scroll.txt` and realise that if you replace a few of the letter
 - basic format to replace text: `sed 's/foo/bar/' file.txt > new-file.txxt` replaces `foo` with `bar`
 - multiple substitutions are semi-colon delimited e.g. `'s/foo/bar/ ; s/another/replacement/'`
 - `cp` lets you copy files `cp somewhere/foo.txt somewhere-else/bar.txt`
+
+TODO
+use the short cut:   
+```ls -R maze | xargs cat >> my-new-file.txt```
